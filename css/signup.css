@@ -29,9 +29,9 @@ body {
 }
 
 .logo {
-    height: 250px;
+    height: 150px;
     display: block;
-    margin: 0 auto 50px;
+    margin: 50px auto 50px;
 }
 
 input[type="text"],
@@ -56,9 +56,14 @@ textarea{
     font-weight: 600;
 }
 
+textarea::placeholder{
+    text-transform: capitalize;
+}
+
 input::placeholder {
     color: #686B5A;
     opacity: 0.8;
+    text-transform: capitalize;
 }
 
 input:focus {
