@@ -82,7 +82,7 @@ input:focus {
     text-decoration: none;
     padding: 20px;
     border-radius: 5px;
-    background: url("../img/AJShop/bkg-gold.png");
+    background: url("../img/YS_Shop/bkg-gold.png");
     border: 1px solid #142A00;
     font-family: 'Raleway', sans-serif;
     letter-spacing: 0.25em;
@@ -127,7 +127,7 @@ input:focus {
     width: 100%;
     height: 100%;
     pointer-events: none;
-    background-image: url("../img/AJShop/check2.png");
+    background-image: url("../img/YS_Shop/check2.png");
     background-size: contain;
     background-repeat: no-repeat;
     display: none;
@@ -225,7 +225,7 @@ label a {
 .loading-section {
     width: 100%;
     height: calc(100vh - 120px);
-    background-image: url('../img/AJShop/gold-dust.gif');
+    background-image: url('../img/YS_Shop/gold-dust.gif');
     background-size: cover;
     display: flex;
     justify-content: center;
